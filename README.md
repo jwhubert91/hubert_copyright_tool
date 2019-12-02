@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 	HubertCopyrightTool::Renderer.copyright("James Hubert","All rights reserved")
+```
 
 ## Development
 
